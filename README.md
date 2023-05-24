@@ -2,13 +2,21 @@
 a game of life
 what would you do with four cards in your hand?
 
+view website: ashlink11.github.io
+
 #### tech stack ideals:
 angular, typescript, material design
+<br>
 stripe & auth0 middleware APIs
+<br>
 deno server-side runtime - postgreSQL, docker, kubernetes, connecting to a substrate-based blockchain
-
+<br>
 roadmap:
+<br>
+ink! smart contracts on polkadot
+<br>
 malty verse parachain
+<br>
 flutter/dart and/or androidSDK and iOS/swift mobile apps
 
 
