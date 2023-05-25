@@ -1,27 +1,53 @@
 ## the malty verse
 a game of life 
 <br>
-what would you do with four cards in your hand?
+leave your legacy on the blockchain
 
 [view website with ui concept art](https://ashlink11.github.io)
 
 #### tech stack ideals:
-angular, typescript, material design
+frontend options:
 <br>
-stripe & auth0 middleware APIs
-<br>
-deno server-side runtime - postgreSQL, docker, kubernetes, connecting to a substrate-based blockchain
+react & styled-components / flutter/dart / angular, typescript, material design
 <br>
 <br>
-roadmap:
+middleware/microservices/API options:
 <br>
-ink! smart contracts on polkadot
+stripe / auth0 / next.js / fresh
 <br>
-malty verse parachain
 <br>
-flutter/dart and/or androidSDK and iOS/swift mobile apps
+server-side runtime options:
+<br>
+node.js & express / deno  
+<br>
+<br>
+database options:
+<br>
+firebase / postgreSQL / mySQL / SQL Server
+<br>
+<br>
+devops options:
+<br>
+docker, kubernetes, etc.
+<br>
+<br>
+blockchain options:
+<br>
+connecting to a substrate-based blockchain using ink! smart contracts on polkadot
+<br>
+<br>
+<br>
+<br>
+extended roadmap ideals:
+<br>
+substrate-based malty verse parachain / other blockchains
+<br>
+androidSDK and iOS/swift mobile apps
 <br> 
 unity and C# web app
+<br>
+<br>
+<br>
 <br>
 
 nanoidentitycontracts ui features:
@@ -62,4 +88,25 @@ pop bubbles to view new content
 release bubbles for meditative nanocontract self-soothing
 change game mode to review different parts of nanocontract or game of life
 ```
+<br>
+<br>
+<br>
+<br>
+more links:
+<br>
+[youtube](https://www.youtube.com/channel/UCkQuuh6U7L_BOs4RLT9I30w)
+<br>
+concept art and lore
+<br>
+<br>
+<br>
+[instagram](https://www.instagram.com/the_malty_verse/)
+<br>
+<br>
+<br>
+[tiktok](https://www.tiktok.com/@themaltyverse)
+<br>
+pop-philosophy dictionary to learn tech!
+<br>
+<br>
 
