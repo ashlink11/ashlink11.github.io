@@ -3,7 +3,7 @@ a game of life
 <br>
 what would you do with four cards in your hand?
 
-[view website with ui concept art](ashlink11.github.io)
+[view website with ui concept art](https://ashlink11.github.io)
 
 #### tech stack ideals:
 angular, typescript, material design
