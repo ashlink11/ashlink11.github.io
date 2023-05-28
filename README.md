@@ -20,7 +20,6 @@ server-side runtime options:
 <br>
 node.js & express / deno  
 <br>
-<br>
 database options:
 <br>
 firebase / postgreSQL / mySQL / SQL Server
@@ -34,7 +33,6 @@ docker, kubernetes, etc.
 blockchain options:
 <br>
 connecting to a substrate-based blockchain using ink! smart contracts on polkadot
-<br>
 <br>
 <br>
 <br>
