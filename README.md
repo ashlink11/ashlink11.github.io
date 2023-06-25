@@ -155,5 +155,18 @@ a bit more technical now, but i dream of communities using MLIR asm & browser wa
 stay tuned & thank you
 <br>
 <br>
-<p>ashley grevelink - copyright 2023</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+random notes:
+<br>
+symbolic languages are made of glyphs, e.g.: emoji, music notation, Boolean algebra & mathematics
+<br>
+<br>
+<br>
+ashley grevelink - copyright 2023
+
 
