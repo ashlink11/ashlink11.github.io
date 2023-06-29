@@ -25,3 +25,20 @@ incrementally evolving ai from python to other languages
 variables/literals - integers, floats and strings
 
 This package will install Python 3.11.4 for macOS 10.9 or later for the following architecture(s): arm64, x86_64.
+
+Reserved keywords python
+
+False      await      else       import     pass
+None       break      except     in         raise
+True       class      finally    is         return
+and        continue   for        lambda     try
+as         def        from       nonlocal   while
+assert     del        global     not        with
+async      elif       if         or         yield
+
+{:.2f} two decimal place formatting
+
+x % 10000 yield last four digits
+
+script is a file; can be input to the interpreter
+module: a file imported by a script, module or interpreter
