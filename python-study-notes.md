@@ -42,3 +42,6 @@ x % 10000 yield last four digits
 
 script is a file; can be input to the interpreter
 module: a file imported by a script, module or interpreter
+math module: theoretic, trigonometric, and logarithmic operations
+
+unicode representation = "code point"
