@@ -44,4 +44,12 @@ script is a file; can be input to the interpreter
 module: a file imported by a script, module or interpreter
 math module: theoretic, trigonometric, and logarithmic operations
 
-unicode representation = "code point"
+unicode representation = "code point" (over 1m code points which each have a decimal encoding) (ord() and chr())
+
+r = raw string
+, end='' = no newline
+, sep='' = no spaces btw args
+, flush=True = can help with buffer errors
+
+https://docs.python.org/3.7/howto/unicode.html
+
