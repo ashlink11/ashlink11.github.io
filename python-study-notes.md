@@ -53,3 +53,14 @@ r = raw string
 
 https://docs.python.org/3.7/howto/unicode.html
 
+lists, tuples, and dictionaries
+
+"Data types: String basics, list basics, dictionary basics, types summary, additional practice, type conversions
+
+Strings: String formatting, advanced string formatting, string slicing, string methods, string split and join"
+
+default_is_string = input('optional prompt')
+
+len()
+
+strings: immutable; must use assignment to update entire string
