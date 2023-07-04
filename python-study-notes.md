@@ -64,3 +64,15 @@ default_is_string = input('optional prompt')
 len()
 
 strings: immutable; must use assignment to update entire string
+
+list.append(value)
+list.pop(i)
+list.remove(value)
+
+dict: key is immutable type (e.g.: number, string, tuple) and value is any type
+
+KeyError
+
+containers:
+mapping types (dict) and sequence types: string, list (mutable), tuple ((use len() and []))
+
