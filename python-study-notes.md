@@ -76,3 +76,10 @@ KeyError
 containers:
 mapping types (dict) and sequence types: string, list (mutable), tuple ((use len() and []))
 
+relational operators (<, <=, >, >=), equality operators (==, !=), membership operators (in, not in), and identity operators (is, is not)
+
+"Good practice is to always use the equality operator== when comparing values."
+
+input_string = input().strip().lower().slice() 
+parse input tokens
+
