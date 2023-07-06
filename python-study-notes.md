@@ -83,3 +83,7 @@ relational operators (<, <=, >, >=), equality operators (==, !=), membership ope
 input_string = input().strip().lower().slice() 
 parse input tokens
 
+https://www.jetbrains.com/help/pycharm/
+
+ML neural networks math: vector, scalar, matmul, tensor
+https://numpy.org/
