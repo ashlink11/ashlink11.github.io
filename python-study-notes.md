@@ -87,3 +87,9 @@ https://www.jetbrains.com/help/pycharm/
 
 ML neural networks math: vector, scalar, matmul, tensor
 https://numpy.org/
+
+"Vectors and Matrices
+The two primary mathematical entities that are of interest in linear algebra are the vector and the matrix. They are examples of a more general entity known as a tensor. Tensors possess an order (or rank), which determines the number of dimensions in an array required to represent it."
+[source](https://www.quantstart.com/articles/scalars-vectors-matrices-and-tensors-linear-algebra-for-deep-learning-part-1/#:~:text=Vectors%20and%20Matrices,array%20required%20to%20represent%20it.)
+
+floats: don't use == due to imprecision
